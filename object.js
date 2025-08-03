@@ -19,13 +19,13 @@ const bottle = {
 }
 
 //non-primitive
-const subjects ={
+const subjects = {
   courseName: 'Bangla',
-  teacher:'Khairul Bashar',
+  teacher: 'Khairul Bashar',
   examDate: '30 Feb',
-  chapters:['first', 'second', 'third'],
-  exam:{
+  chapters: ['first', 'second', 'third'],
+  exam: {
     name: 'Final Exam',
     marks: 100
-  } 
+  }
 }
